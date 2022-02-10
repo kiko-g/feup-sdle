@@ -1,0 +1,9 @@
+# general
+.vscode
+
+# folders
+slides
+
+# python
+__pycache__
+*.pyc
